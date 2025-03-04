@@ -22,10 +22,7 @@ Liste as principais tecnologias, linguagens ou frameworks usados no projeto.
 ---
 
 ![Vizualização](https://github.com/user-attachments/assets/b41f6e47-9767-4b92-aa74-f891e3f1f762)
-
-
-
-Explique aqui qualquer configuração extra necessária.
+[Site do Projeto](https://claricelis.github.io/Menu-Madalena-s-Kitchen/)
 
 ---
 
