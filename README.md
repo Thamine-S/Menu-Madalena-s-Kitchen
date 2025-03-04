@@ -8,27 +8,33 @@
 
 Detalhe aqui o propósito do projeto, os problemas que ele resolve e quaisquer informações relevantes para o usuário.
 
+Menu estático que contem barra de navegação organizando as categorias dos produtos, popups para cada card de produto possibilitando maior detalhamento dos produtos, design responsivo projetado para dispositivos móveis.
+O projeto tem o intuito de fornecer um ambiente focado na organização e na exposição dos produtos da marca, permitindo maior costomização do ambiente virtual, de acordo com a estética escolhida. 
+
 ---
 
 ![Tecnologias](https://github.com/user-attachments/assets/a99d8e20-43b8-48ea-ac65-b6273246c631)
 
-Liste as principais tecnologias, linguagens ou frameworks usados no projeto.
-
+- Visual Studio Code
 - HTML
 - CSS
 - JS
 - Swiper Framework
+- Github Pages
 
 ---
 
 ![Vizualização](https://github.com/user-attachments/assets/b41f6e47-9767-4b92-aa74-f891e3f1f762)
+
+-VIDEO DO SITE OU FOTOS      
+
 [Site do Projeto](https://claricelis.github.io/Menu-Madalena-s-Kitchen/)
 
 ---
 
 ![image](https://github.com/user-attachments/assets/80fc527d-b671-458d-ae1a-fa05e7e56204)
 
-Este projeto não está aberto para contribuições.
+### Este projeto não está aberto para contribuições.
 
 ---
 
